@@ -1,5 +1,5 @@
 {
-  "name": "@sealsystems/ipp",
+  "name": "@gitul/ipp",
   "version": "2.6.0",
   "description": "Internet Printing Protocol (IPP) for Node.js",
   "keywords": [
@@ -18,10 +18,10 @@
     "test:coverage:check": "test-coverage-check",
     "test:report": "test-report"
   },
-  "homepage": "http://github.com/sealsystems/node-ipp",
+  "homepage": "http://github.com/gitulamy/node-ipp",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sealsystems/node-ipp.git"
+    "url": "https://github.com/gitulamy/node-ipp.git"
   },
   "contributors": [
     {
